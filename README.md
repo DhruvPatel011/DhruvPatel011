@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Dhruv Patel
 
-### 💻 B.Tech Student (3rd Year) | Aspiring Full Stack Developer | Cloud & DevOps Enthusiast ☁️🚀
+### 💻 Full-Stack Developer | AI Enthusiast | Building Real-World Web Applications ☁️🚀
 
 - 🎓 Currently pursuing B.Tech in Computer Engineering (3rd Year)
-- 🌱 Learning Full Stack Development (HTML, CSS, JavaScript, React, Node.js)
+- 🌱 Learning Full Stack Development (JavaScript, Node.js, MongoDB, Python, HTML, CSS)
 - ☁️ Exploring Cloud Computing, AWS, Docker, and Kubernetes
 - 💻 Programming in HTML, CSS, JAVA, JavaScript, and Python
 - 🚀 Building real-world projects to improve my skills

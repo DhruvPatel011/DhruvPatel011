@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dhruv Patel<br>💻 Full-Stack Developer | AI Enthusiast | Building Real-World Web Applications<br>🎓 Computer Engineering Undergraduate (3rd Year)<br>🌱 Currently focused on Full-Stack Development and AI-powered applications<br>☁️ Exploring Cloud Computing, AWS, Docker, and Kubernetes<br>🚀 Building real-world projects with modern web technologies<br>🤝 Open to collaboration on Web Development and Open Source Projects<br>💬 Ask me about JavaScript, Node.js, MongoDB, Git, and Web Development<br>📫 Reach me at: dhruvpatel5471@gmail.com<br>🚀
+👋 Hi, I'm Dhruv Patel<br>💻 Full-Stack Developer | AI Enthusiast | Building Real-World Web Applications<br>🎓 Computer Engineering Undergraduate (3rd Year)<br>🌱 Currently focused on Full-Stack Development and AI-powered applications<br>☁️ Exploring Cloud Computing, AWS, Docker, and Kubernetes<br>🚀 Building real-world projects with modern web technologies<br>🤝 Open to collaboration on Web Development and Open Source Projects<br>💬 Ask me about JavaScript, Node.js, MongoDB, Git, and Web Development<br>📫 Reach me at: dhruvpatel5471@gmail.com<br>
 
 
 # 💻 Tech Stack:
